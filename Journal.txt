@@ -1,3 +1,7 @@
 
 8/23/2016
 Introduction to Version control system(git)
+8/26/2016
+Introduction to engineering in general. 
+Split into groups to present the chosen field of engineering. Presentation included General description of the field, where is it applied, and how does it related to Robotics
+Introduction of engineering notebook and how to use it.
